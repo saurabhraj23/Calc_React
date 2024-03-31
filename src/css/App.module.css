@@ -1,0 +1,9 @@
+.container {
+  border: 1px dashed grey;
+  margin: 10px;
+  width : 300px;
+  border: 2px solid grey;
+  border-radius: 4px;
+
+  
+}
